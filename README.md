@@ -1,5 +1,7 @@
 # Space Odyssey
 
+![Gameplay](Screenshots/SpaceOdyssey_extra.gif)
+
 **Space Odyssey** is a 3D arcade space shooter developed in **Unity**.
 
 ## Gameplay
@@ -9,8 +11,8 @@ Pilot a starship through deep space, blasting enemies and dodging obstacles. The
 ## Features
 
 - **Dynamic Flight Physics**: Ship rotation (Pitch, Yaw, Roll) reacts fluidly to input and screen position.
+- **Spaceship Variety**: Features a diverse fleet of player and enemy starships.
 - **Combat System**: Particle-based laser cannons to destroy enemies.
-- **Score Tracking**: High score system to track your best runs.
 
 ## Controls
 
